@@ -6,7 +6,7 @@
 
 | Project Name       | Explanation                             | Version  | Repo Link                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
-| Unity FPS Displayer | Unity'de FPS göstergesi sağlayan basit bir örnek proje. | C#, Unity       | [GitHub](https://github.com/yoareh/ball3d) |
+| Ball3D FPS Arranger | Helps to arrange maxFps and vSync options. | 0.1       | [GitHub](https://github.com/yoareh/ball3d) |
 
 ---
 
