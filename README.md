@@ -4,7 +4,7 @@
 
 ## Library
 
-| Project Name       | Explanation                             | Compatibility & Version  | Download                  |
+| Project Name       | Explanation                             | Compatibility  | Download                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
 
