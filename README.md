@@ -4,9 +4,10 @@
 
 ## PROJECTS
 
-| Project Name       | Explanation                             | Versions  | Repo Link                  |
+| Project Name       | Explanation                             | Versions  | Download                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
-| Ball3D FPS Arranger | Helps to arrange maxFps and vSync options. | 0.1       | [GO](https://github.com/yoareh/ball3d/tree/main/enhancedFps) |
+| enhancedFps | Helps to arrange maxFps and vSync options. | 0.1       | [GO](https://raw.githubusercontent.com/yoareh/ball3d/branch/enhancedFps/0.1/0.1.zip
+) |
 
 ---
 
