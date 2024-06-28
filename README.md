@@ -18,7 +18,7 @@
 
 **Is This Safe:**
 
-*Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. i.e virustotal*
+*Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal*
 
 ---
 
