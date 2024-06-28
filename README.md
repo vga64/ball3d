@@ -10,7 +10,7 @@
 
 ## Projects
 # enhancedFps
-How To Install:
+*How To Install:*
 
 Just click to chosen version of enhancedFps on "Download" section. After installation, extract "0.x.zip" to "...\Steam\steamapps\common\Ball 3D\Ball 3D_Data" and replace "Assembly-UnityScript.dll". That's it!
 
