@@ -9,7 +9,7 @@
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
 
 ## Projects
-# enhancedFps
+### enhancedFps
 **How To Install:**
 
 *Just click to chosen version of enhancedFps on "Download" section.*
