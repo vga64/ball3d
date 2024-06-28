@@ -1,2 +1,0 @@
-maxFps=120
-vSync=0
