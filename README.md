@@ -6,8 +6,7 @@
 
 | Project Name       | Explanation                             | Versions  | Download                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
-| enhancedFps | Helps to arrange maxFps and vSync options. | 0.1       | [GO](https://raw.githubusercontent.com/yoareh/ball3d/branch/enhancedFps/0.1/0.1.zip
-) |
+| enhancedFps | Helps to arrange maxFps and vSync options. | 0.1       | [GO](https://raw.githubusercontent.com/yoareh/ball3d/branch/enhancedFps/0.1/0.1.zip) |
 
 ---
 
