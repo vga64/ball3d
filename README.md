@@ -24,6 +24,8 @@
 ### enhancedFps + Corrected Shift
 *This is same with enhancedFps, just a merged version of it!*
 
+**Corrected Shift Sensivity (cShiftSens) has to be in 0-100 range integer! (default: 50)**
+
 ---
 
 by yoareh
