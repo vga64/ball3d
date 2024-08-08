@@ -23,13 +23,13 @@ Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll)
 ## Trust Issue
 If you don't trust .dll files, you can build it yourself!
 
-First of all, you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
+First of all, you have to install **.NET decompiler**, to open and edit your **.dll** file. I recommend **dnSpyEx**, but you can also use **dnSpy** which is outdated. (**dotPeek** and **ILSpy** are alternatives)
 
 1) https://github.com/dnSpyEx/dnSpy/releases
 2) https://github.com/dnSpy/dnSpy/releases
 
-(Advanced Users can also use ghidra.)
+(Advanced Users can also use **ghidra**.)
 
-Secondly, open dnSpy and load "Assembly-UnityScript.dll" from your game directory.
+Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** from your game directory.
 
-Thirdly, you have to change some of classes. Look for the "Assemblies" folder in the repository and follow the instructions. 
+Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in this **Assemblies** folder. Install them. You have to find all classes of the **Assembly-UnityScript.dll** from dnSpy (generally classes are in: **{}**). Replace defined **Assembly-UnityScript.dll's** **.cs** files with these (**Assemblies**) **.cs** files.  
