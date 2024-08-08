@@ -21,7 +21,7 @@ After installation, extract "0.x.zip" to "...\Steam\steamapps\common\Ball 3D\Bal
 Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal
 
 ## Trust Issue
-If you don't trust .dll files, you can build it yourself!*
+If you don't trust .dll files, you can build it yourself!
 
 First of all you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
 https://github.com/dnSpyEx/dnSpy/releases
