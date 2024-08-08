@@ -27,6 +27,7 @@ First of all, you have to install decompiler, to open and edit your .dll file. I
 
 1) https://github.com/dnSpyEx/dnSpy/releases
 2) https://github.com/dnSpy/dnSpy/releases
+(Advanced Users can also use ghidra.)
 
 Secondly, open dnSpy and load "Assembly-UnityScript.dll" from your game directory.
 
