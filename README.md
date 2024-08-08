@@ -30,7 +30,7 @@ First of all, you have to install **.NET decompiler**, to open and edit your **.
 
 (Advanced Users can also use **ghidra**.)
 
-Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** from your game directory.
+Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** from your game directory. (And dive into dnSpy. Try to learn! It will be helpful)
 
 Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in this **Assemblies** folder. Install them. You have to find all classes of the **Assembly-UnityScript.dll** from dnSpy (generally classes are in: **{}**). Replace defined **Assembly-UnityScript.dll** classes with these (**Assemblies**) **.cs** files.
 
