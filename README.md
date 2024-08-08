@@ -23,7 +23,7 @@ Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll)
 ## Trust Issue
 If you don't trust .dll files, you can build it yourself!
 
-First of all you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
+First of all, you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
 https://github.com/dnSpyEx/dnSpy/releases
 
 Secondly, open dnSpy and load "Assembly-UnityScript.dll" from your game directory.
