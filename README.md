@@ -32,4 +32,14 @@ First of all, you have to install **.NET decompiler**, to open and edit your **.
 
 Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** from your game directory.
 
-Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in this **Assemblies** folder. Install them. You have to find all classes of the **Assembly-UnityScript.dll** from dnSpy (generally classes are in: **{}**). Replace defined **Assembly-UnityScript.dll** classes with these (**Assemblies**) **.cs** files.  
+Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in this **Assemblies** folder. Install them. You have to find all classes of the **Assembly-UnityScript.dll** from dnSpy (generally classes are in: **{}**). Replace defined **Assembly-UnityScript.dll** classes with these (**Assemblies**) **.cs** files.
+
+###Definitions###
+**enhancedFps**
+
+(.dll) FPSDisplayer.cs -> has to be changed with Assemblies/FPSDisplayer.cs
+
+**enhancedFps[CS]**
+
+(.dll) FPSDisplayer.cs -> has to be changed with Assemblies/FPSDisplayer.cs
+(.dll) HeroInput.cs -> has to be changed with Assemblies/HeroInput.cs
