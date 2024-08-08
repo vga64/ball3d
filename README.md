@@ -7,9 +7,9 @@
 | Project Name       | Explanation                             | Compatibility  | Download                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
-| enhancedFps + Corrected Shift | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
+| enhancedFps + Corrected Shift (CS) | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
 
-## enhancedFps / enhancedFps + Corrected Shift
+## enhancedFps / CS
 **How To Install:**
 
 Just click to chosen version of enhancedFps on "Download" section.
