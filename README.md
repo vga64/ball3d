@@ -9,7 +9,6 @@
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
 | enhancedFps + Corrected Shift | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
 
-## Projects
 ## enhancedFps
 **How To Install:**
 
@@ -26,6 +25,10 @@
 
 ---
 ## Don't You Trust?
+*If you don't trust .dll files, you can build it yourself!*
+
+First of all you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
+https://github.com/dnSpyEx/dnSpy/releases
 
 
 
