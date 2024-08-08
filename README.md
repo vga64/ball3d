@@ -42,4 +42,5 @@ Thirdly, you have to change some of classes. Look inside of the **Assemblies** f
 **enhancedFps[CS]**
 
 (.dll) FPSDisplayer.cs -> has to be changed with Assemblies/FPSDisplayer.cs
+
 (.dll) HeroInput.cs -> has to be changed with Assemblies/HeroInput.cs
