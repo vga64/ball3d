@@ -10,7 +10,7 @@
 | enhancedFps + Corrected Shift | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
 
 ## Projects
-### enhancedFps
+## enhancedFps
 **How To Install:**
 
 *Just click to chosen version of enhancedFps on "Download" section.*
@@ -21,9 +21,11 @@
 
 *Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal*
 
-### enhancedFps + Corrected Shift
+## enhancedFps + Corrected Shift
 *This is same with enhancedFps, just a merged version of it!*
 
 ---
+## Don't You Trust?
 
-by yoareh
+
+
