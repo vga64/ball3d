@@ -12,20 +12,19 @@
 ## enhancedFps
 **How To Install:**
 
-*Just click to chosen version of enhancedFps on "Download" section.*
+Just click to chosen version of enhancedFps on "Download" section.
 
-*After installation, extract "0.x.zip" to "...\Steam\steamapps\common\Ball 3D\Ball 3D_Data" and replace "Assembly-UnityScript.dll". That's it!*
+After installation, extract "0.x.zip" to "...\Steam\steamapps\common\Ball 3D\Ball 3D_Data" and replace "Assembly-UnityScript.dll". That's it!
 
 **Is This Safe:**
 
-*Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal*
+Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal
 
 ## enhancedFps + Corrected Shift
-*This is same with enhancedFps, just a merged version of it!*
+This is same with enhancedFps, just a merged version of it!
 
----
 ## Don't You Trust?
-*If you don't trust .dll files, you can build it yourself!*
+If you don't trust .dll files, you can build it yourself!*
 
 First of all you have to install decompiler, to open and edit your .dll file. I recommend dnSpyEx, but you can also use dnSpy which is outdated.
 https://github.com/dnSpyEx/dnSpy/releases
