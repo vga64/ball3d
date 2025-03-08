@@ -3,8 +3,10 @@
 
 [+] FPSmax + Vsync
 
-[wop] Status Bar (fps, ping, latency etc.)
+[?] UI for FPSmax + Vsync
 
-[wop] Reconnect + Disconnect Bind
+[?] Status Bar (fps, ping, latency etc.)
 
-[wop] NO ITEM Bugfix
+[?] Reconnect + Disconnect Bind
+
+[?] NO ITEM Bugfix
