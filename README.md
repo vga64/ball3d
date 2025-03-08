@@ -8,7 +8,7 @@
 |-----------------|--------------------------------------|----------------|----------------------------|
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
 | enhancedFps + Corrected Shift (CS) | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
-|slow2020+|[Features](https://github.com/yoareh/ball3d/main/slow2020plus.md)|...|...|
+|slow2020+|[Features](https://github.com/yoareh/ball3d/slow2020plus.md)|...|...|
 
 ## Installation
 **How To Install:**
