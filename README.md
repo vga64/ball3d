@@ -4,21 +4,21 @@
 
 ## Library
 
-| Project Name       | Explanation                             | Compatibility  | Download                  |
+| Project Name       | Features                            | Compatibility  | Download                  |
 |-----------------|--------------------------------------|----------------|----------------------------|
 | enhancedFps | Helps to arrange maxFps and vSync options. (eliminating input lag) | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1/0.1.zip) |
 | enhancedFps + Corrected Shift (CS) | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
 
-## enhancedFps / CS
+## Installation
 **How To Install:**
 
-Just click to chosen version of enhancedFps on "Download" section.
+Just click to chosen version of any patch on "Download" section.
 
-After installation, extract "0.x.zip" to "...\Steam\steamapps\common\Ball 3D\Ball 3D_Data" and replace "Assembly-UnityScript.dll". That's it!
+After installation, extract zip to "...\Steam\steamapps\common\Ball 3D\Ball 3D_Data" and replace "Assembly-UnityScript.dll". That's it!
 
-**Is This Safe:**
+**Reliability**
 
-Sure! It is safe, you can scan all files (config.txt | Assembly-UnityScript.dll) with any anti-virus client. e.g. virustotal
+Do you think about safety? For sure it is safe, you can scan all files with any anti-virus client. e.g. virustotal
 
 ## Trust Issue
 If you don't trust .dll files, you can build your one!
@@ -30,9 +30,11 @@ First of all, you have to install **.NET decompiler**, to open and edit your **.
 
 (Advanced Users can also use **ghidra**.)
 
-Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** from your game directory. (And dive into dnSpy. Try to learn! It will be helpful)
+Secondly, open **dnSpy** and load **Assembly-UnityScript.dll** file from your game directory. (And dive into dnSpy. Try to learn! It will be helpful)
 
-Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in this **Assemblies** folder. Install them. You have to find all classes of the **Assembly-UnityScript.dll** from dnSpy (generally classes are in: **{}**). Replace defined **Assembly-UnityScript.dll** classes with these (**Assemblies**) **.cs** files.
+Thirdly, you have to change some of classes. Look inside of the **Assemblies** folder in the repository. There are **.cs** files in **Assemblies** folder. Install which you need.
+
+Now you have to find all classes of the **Assembly-UnityScript.dll** file from dnSpy (generally classes are in: **{}**). Replace your chosen assemblies (.cs files) with **Assembly-UnityScript.dll** classes.
 
 When you finish replacements, only thing to do is **saving all modules**. Good luck!
 
