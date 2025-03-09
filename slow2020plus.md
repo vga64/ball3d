@@ -7,6 +7,6 @@
   - Defined in the Options menu Info section. Red colored, classic slow info panel.
 - [x] Disconnect Bind
   - Quick disconnect with (F1) key
-- [] Reconnect Bind
+- [ ] Reconnect Bind
   - Quick reconnect with (F2) key
-- [] NO ITEM Bugfix
+- [ ] NO ITEM Bugfix
