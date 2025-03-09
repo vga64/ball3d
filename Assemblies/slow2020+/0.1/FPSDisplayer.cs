@@ -17,7 +17,7 @@ public class FPSDisplayer : MonoBehaviour
 	public virtual void Update()
 	{
 		GameManager.instance.showFps = true;
-		if (!GameManager.instance.leave && Input.GetKeyDown(KeyCode.F1))
+		if (!GameManager.instance.leave && Input.GetKeyDown(KeyCode.F3))
 		{
 			GameManager.instance.leave = true;
 			Network.Disconnect(10);
