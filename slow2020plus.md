@@ -6,7 +6,7 @@
 - [x] Info Panel (UI)
   - Defined in the Options menu Info section. Red colored, classic slow info panel.
 - [x] Disconnect Bind
-  - Quick disconnect with (F1) key
+  - Quick disconnect with (F3) key
 - [ ] Reconnect Bind
-  - Quick reconnect with (F2) key
+  - Quick reconnect with (F4) key
 - [ ] NO ITEM Bugfix
