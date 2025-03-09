@@ -38,14 +38,3 @@ Thirdly, you have to change some of classes. Look inside of the **Assemblies** f
 Now you have to find all classes of the **Assembly-UnityScript.dll** file from dnSpy (generally classes are in: **{}**). Replace your chosen assemblies (.cs files) with **Assembly-UnityScript.dll** classes.
 
 When you finish replacements, only thing to do is **saving all modules**. Good luck!
-
-### Definitions
-**enhancedFps**
-
-(.dll) FPSDisplayer.cs -> has to be changed with Assemblies/FPSDisplayer.cs
-
-**enhancedFps[CS]**
-
-(.dll) FPSDisplayer.cs -> has to be changed with Assemblies/FPSDisplayer.cs
-
-(.dll) HeroInput.cs -> has to be changed with Assemblies/HeroInput.cs
