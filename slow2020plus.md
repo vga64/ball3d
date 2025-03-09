@@ -1,12 +1,12 @@
 # 0.1
-#### [x] Corrected Shift
-Smooth curving while shifting on mouse rotation curve mode.
-#### [x] FPSmax + Vsync (UI)
-Defined in the Options menu Video section. Max FPS can be chosen in range of (30, 540).
-#### [x] Info Panel (UI)
-Defined in the Options menu Info section. Red colored, classic slow info panel.
-#### [x] Disconnect Bind
-Quick disconnect with (F1) key
-#### [] Reconnect Bind
-Quick reconnect with (F2) key
-#### [] NO ITEM Bugfix
+- [x] Corrected Shift
+  - Smooth curving while shifting on mouse rotation curve mode.
+- [x] FPSmax + Vsync (UI)
+  - Defined in the Options menu Video section. Max FPS can be chosen in range of (30, 540).
+- [x] Info Panel (UI)
+  - Defined in the Options menu Info section. Red colored, classic slow info panel.
+- [x] Disconnect Bind
+  - Quick disconnect with (F1) key
+- [] Reconnect Bind
+  - Quick reconnect with (F2) key
+- [] NO ITEM Bugfix
