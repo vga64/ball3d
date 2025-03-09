@@ -38,3 +38,5 @@ Thirdly, you have to change some of classes. Look inside of the **Assemblies** f
 Now you have to find all classes of the **Assembly-UnityScript.dll** file from dnSpy (generally classes are in: **{}**). Replace your chosen assemblies (.cs files) with **Assembly-UnityScript.dll** classes.
 
 When you finish replacements, only thing to do is **saving all modules**. Good luck!
+
+Warning! Some of classes have strong restrictions to recompile, as an example: GlobalManager. If you want to build your .dll, then you have to use some techniques for replacing chosen assembly with game .dll's class. You can contact with me from discord: **viyuv**. I am here for your all questions.
