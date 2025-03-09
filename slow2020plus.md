@@ -2,9 +2,9 @@
 #### [+] Corrected Shift
 Smooth curving while shifting on mouse rotation curve mode.
 #### [+] FPSmax + Vsync (UI)
-Options, defined in the Video section. FPSmax can be chosen in range of (30, 540).
+Defined in the Options menu Video section. Max FPS can be chosen in range of (30, 540).
 #### [+] Info Panel (UI)
-Options, defined in the Info section. Red colored, classic slow info panel.
+Defined in the Options menu Info section. Red colored, classic slow info panel.
 #### [+] Disconnect Bind
 Quick disconnect with (F1) key
 #### [-] Reconnect Bind
