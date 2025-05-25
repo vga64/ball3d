@@ -1,6 +1,13 @@
 # BALL 3D
-
 ---
+
+## Disclaimer
+
+This repository contains multiple fan-made mods for the game *Ball 3D: Soccer Online*. These projects are unofficial and are not affiliated with, endorsed by, or sponsored by the original developers or publishers of the game. All trademarks, copyrighted materials, and proprietary content related to the original game remain the property of their respective owners.
+
+Some parts of the code in these mods may reference or depend on elements of the original game's code or behavior. Such references are included solely for compatibility, interoperability, and educational purposes. No unauthorized redistribution of proprietary assets is intended.
+
+These mods are provided in good faith under the assumption that modding and community-created content are allowed within the boundaries of the game's terms of service and license agreements. If you are a copyright holder and have concerns about any content in this repository, please contact me (yoareh@outlook.com) directly, and I will take immediate action to address the issue.
 
 ## Library
 
@@ -21,8 +28,8 @@ After installation, extract zip to "...\Steam\steamapps\common\Ball 3D\Ball 3D_D
 
 Do you think about safety? For sure it is safe, you can scan all files with any anti-virus client. e.g. virustotal
 
-## Trust Issue
-If you don't trust .dll files, you can build your one!
+## Building Specific Modules
+If you don't trust .dll files or if you want to make some other mods with my edited classes - you can build your one!
 
 First of all, you have to install **.NET decompiler**, to open and edit your **.dll** file. I recommend **dnSpyEx**, but you can also use **dnSpy** which is outdated. (**dotPeek** and **ILSpy** are alternatives)
 
@@ -39,4 +46,8 @@ Now you have to find all classes of the **Assembly-UnityScript.dll** file from d
 
 When you finish replacements, only thing to do is **saving all modules**. Good luck!
 
-**Warning!** Some of classes have strong restrictions to recompile, as an example: **GlobalManager**. If you want to build your .dll, then you have to use some techniques for replacing chosen assembly with game .dll's class. You can contact with me from discord: **viyuv**. I am here for your all questions.
+**Warning!** Some of classes have strong restrictions to recompile, as an example: **GlobalManager**. If you want to build your .dll, then you have to use some techniques for replacing chosen assembly with game .dll's class. You can contact with me from discord: **yoareh**. I am here for your all questions.
+
+## Using Edited Classes/Modules
+
+Do you want to do your own mod project with my edited classes/modules? Sure you can do it but please give credits about these. Nothing more I want :)
