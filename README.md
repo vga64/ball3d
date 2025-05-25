@@ -15,7 +15,7 @@ These mods are provided in good faith under the assumption that modding and comm
 |slow_2020+|[Features](https://github.com/yoareh/ball3d/blob/main/slow2020plus.md)|slow_2020|[0.1](https://github.com/yoareh/ball3d/raw/main/slow2020+/0.1/Assembly-UnityScript.dll)|
 
 ## Installation
-**How To Install:**
+**How To Install**
 
 Just click to chosen version of any patch on "Download" section.
 
