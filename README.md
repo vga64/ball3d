@@ -1,6 +1,3 @@
-BALL 3D MOD REPO
----
-
 ## Disclaimer
 
 This repository contains multiple fan-made mods for the game *Ball 3D: Soccer Online*. These projects are unofficial and are not affiliated with, endorsed by, or sponsored by the original developers or publishers of the game. All trademarks, copyrighted materials, and proprietary content related to the original game remain the property of their respective owners.
