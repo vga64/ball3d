@@ -47,4 +47,4 @@ When you finish replacements, only thing to do is **saving all modules**. Good l
 
 ## Using Edited Classes/Modules
 
-Do you want to make your own mod project with my edited classes/modules? Sure you can do it but please give credits about these. Nothing more I want :)
+Do you want to make your own mod project with my edited classes/modules? Sure you can use the classes/modules, but please give credit to me about these. Nothing more I want :)
