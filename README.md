@@ -25,7 +25,7 @@ After installation, extract zip to "...\Steam\steamapps\common\Ball 3D\Ball 3D_D
 
 Do you think about safety? For sure it is safe, you can scan all files with any anti-virus client. e.g. virustotal
 
-## Building Specific Modules
+## Building Custom Modules
 If you don't trust .dll files or if you want to make some other mods with my edited classes - you can build your one!
 
 First of all, you have to install **.NET decompiler**, to open and edit your **.dll** file. I recommend **dnSpyEx**, but you can also use **dnSpy** which is outdated. (**dotPeek** and **ILSpy** are alternatives)
@@ -45,6 +45,6 @@ When you finish replacements, only thing to do is **saving all modules**. Good l
 
 **Warning!** Some of classes have strong restrictions to recompile, as an example: **GlobalManager**. If you want to build your .dll, then you have to use some techniques for replacing chosen assembly with game .dll's class. You can contact with me from discord: **yoareh**. I am here for your all questions.
 
-## Using Edited Classes/Modules
+## Using Custom Classes/Modules
 
-Do you want to make your own mod project with my edited classes/modules? Sure you can use the classes/modules, but please give credit to me about these. Nothing more I want :)
+Do you want to make your own mod customized with my custom classes/modules? Sure, you can use all of the custom classes/modules in your mod, but please give credit to me. Nothing more I want :)
