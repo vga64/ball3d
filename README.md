@@ -4,7 +4,7 @@ This repository contains multiple fan-made mods for the game *Ball 3D: Soccer On
 
 Some parts of the code in these mods may reference or depend on elements of the original game's code or behavior. Such references are included solely for compatibility, interoperability, and educational purposes. No unauthorized redistribution of proprietary assets is intended.
 
-These mods are provided in good faith under the assumption that modding and community-created content are allowed within the boundaries of the game's terms of service and license agreements. If you are a copyright holder and have concerns about any content in this repository, please contact me (yoareh@outlook.com) directly, and I will take immediate action to address the issue.
+These mods are provided in good faith under the assumption that modding and community-created content are allowed within the boundaries of the game's terms of service and license agreements. If you are a copyright holder and have concerns about any content in this repository, please contact me (vga64@outlook.com.tr) directly, and I will take immediate action to address the issue.
 
 ## Library
 
