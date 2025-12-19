@@ -1,6 +1,6 @@
 # B3DML - Ball 3D Mod Loader
 
-Version-agnostic mod loader. A mod built for 4.21 also runs on 4.x/slow even in slow_2020.
+Version-agnostic mod loader. A mod built for 4.21 also runs on 4.x/slow even on slow_2020.
 
 ## Features
 
