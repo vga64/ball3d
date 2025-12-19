@@ -1,0 +1,45 @@
+{
+  "name": "ExampleMod",
+  "version": "1.0.0",
+  "author": "YourName",
+  "description": "Örnek mod - B3DML için template (tüm asset tiplerini destekler)",
+  "targetGameVersion": "4.21+",
+  "priority": 100,
+  "dependencies": [],
+  "conflicts": [],
+  "assets": {
+    "textures": [
+      "assets/textures/example_texture.png"
+    ],
+    "sprites": [
+      "assets/sprites/example_sprite.png"
+    ],
+    "models": [],
+    "meshes": [
+      "assets/meshes/example_mesh.obj"
+    ],
+    "animators": [
+      "assets/animators/example_animator/"
+    ],
+    "sounds": [],
+    "audioClips": [
+      "assets/audio/example_sound.wav"
+    ],
+    "fonts": [
+      "assets/fonts/example_font.ttf"
+    ],
+    "textAssets": [
+      "assets/text/example_config.txt"
+    ],
+    "shaders": [
+      "assets/shaders/example_shader.shader"
+    ],
+    "monoBehaviours": [
+      "assets/monobehaviours/example_config.json"
+    ]
+  },
+  "bundles": [
+    "bundles/example_objects.unity3d"
+  ],
+  "dlls": []
+}
