@@ -36,7 +36,7 @@ Unity loads DLLs from `Managed/`. B3DML:
 ```
 MyMod/
 ├── mod.json
-├── scripts/   (C# scripts - auto compile)
+├── scripts/   (C# scripts - auto compile or DLLs)
 ├── bundles/   (AssetBundles)
 └── assets/
 		├── textures/
