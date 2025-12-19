@@ -14,6 +14,7 @@ These mods are provided in good faith under the assumption that modding and comm
 | enhancedFps + Corrected Shift (CS) | enhancedFps features and corrected shift. If you use mouse rotation, it helps to control your shift (vertical kick) curve more smoothly. | slow_2020       | [0.1](https://github.com/yoareh/ball3d/raw/main/enhancedFps/0.1[shiftcorrected]/0.1[shiftcorrected].zip) |
 |slow_2020+|[Features](https://github.com/yoareh/ball3d/blob/main/slow2020plus.md)|slow_2020|[0.1](https://github.com/yoareh/ball3d/raw/main/slow2020+/0.1/Assembly-UnityScript.dll)|
 |sp+|-|sprint (latest)|[0.1]|
+|B3DML| The first ever universal modloader for Ball 3D!|sp/slow/slow2020 (all of them)|[0.1](https://github.com/yoareh/ball3d/B3DML/0.1)|
 
 ## Installation
 **How To Install**
